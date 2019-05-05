@@ -1,13 +1,105 @@
 # See https://www.dartlang.org/guides/libraries/private-files
 
-# Files and directories created by pub
-.dart_tool/
-.packages
-.pub/
-build/
-# If you're building an application, you may want to check-in your pubspec.lock
-pubspec.lock
 
-# Directory created by dartdoc
-# If you don't generate documentation locally you can remove this line.
-doc/api/
+
+#Python 
+pyCode/__pycache__/
+pyCode/.vscode/
+pyCode/venv/
+pyCode/pyre.py
+
+
+
+# Miscellaneous
+appCode/*.class
+appCode/*.lock
+appCode/*.log
+appCode/*.pyc
+appCode/*.swp
+appCode/.DS_Store
+appCode/.atom/
+appCode/.buildlog/
+appCode/.history
+appCode/.svn/
+
+# IntelliJ related
+appCode/*.iml
+appCode/*.ipr
+appCode/*.iws
+appCode/.idea/
+
+# Visual Studio Code related
+appCode/.vscode/
+
+# Flutter repo-specific
+appCode/bin/cache/
+appCode/bin/mingit/
+appCode/dev/benchmarks/mega_gallery/
+appCode/dev/bots/.recipe_deps
+appCode/dev/bots/android_tools/
+appCode/dev/docs/doc/
+appCode/dev/docs/flutter.docs.zip
+appCode/dev/docs/lib/
+appCode/dev/docs/pubspec.yaml
+appCode/packages/flutter/coverage/
+version
+
+# packages file containing multi-root paths
+.packages.generated
+
+# Flutter/Dart/Pub related
+**/doc/api/
+appCode/.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache/
+.pub/
+appCode/build/
+flutter_*.png
+linked_*.ds
+unlinked.ds
+unlinked_spec.ds
+
+# Android related
+appCode/android/**/gradle-wrapper.jar
+appCode/android/.gradle
+appCode/android/captures/
+appCode/android/gradlew
+appCode/android/gradlew.bat
+appCode/android/local.properties
+appCode/android/**/GeneratedPluginRegistrant.java
+appCode/android/key.properties
+*.jks
+
+# iOS/XCode related
+appCode/**/ios/**/*.mode1v3
+appCode/**/ios/**/*.mode2v3
+appCode/**/ios/**/*.moved-aside
+appCode/**/ios/**/*.pbxuser
+appCode/**/ios/**/*.perspectivev3
+appCode/**/ios/**/*sync/
+appCode/**/ios/**/.sconsign.dblite
+appCode/**/ios/**/.tags*
+appCode/**/ios/**/.vagrant/
+appCode/**/ios/**/DerivedData/
+appCode/**/ios/**/Icon?
+appCode/**/ios/**/Pods/
+appCode/**/ios/**/.symlinks/
+appCode/**/ios/**/profile
+appCode/**/ios/**/xcuserdata
+appCode/**/ios/.generated/
+appCode/**/ios/Flutter/App.framework
+appCode/**/ios/Flutter/Flutter.framework
+appCode/**/ios/Flutter/Generated.xcconfig
+appCode/**/ios/Flutter/app.flx
+appCode/**/ios/Flutter/app.zip
+appCode/**/ios/Flutter/flutter_assets/
+appCode/**/ios/ServiceDefinitions.json
+appCode/**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Exceptions to above rules.
+appCode/!**/ios/**/default.mode1v3
+appCode/!**/ios/**/default.mode2v3
+appCode/!**/ios/**/default.pbxuser
+appCode/!**/ios/**/default.perspectivev3
+appCode/!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
