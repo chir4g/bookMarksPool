@@ -6,6 +6,7 @@
 pyCode/__pycache__/
 pyCode/.vscode/
 pyCode/venv/
+pyCode/pyre.py
 
 
 
