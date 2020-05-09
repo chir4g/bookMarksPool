@@ -1,8 +1,8 @@
 # Book My Marks
 
-## This App is being designed to store bookmark data from sudden deletion of different platforms
+## This App is being designed to store bookmarks and democratize the use of resources on internet. This is intended to create a clutter free environment where you are not charged for anything. You are happy to create, share and debate over what should be shared with you. 
 
-### Sometimes we come across great content that we wish we could have more of that kind but we generally lose it. Here is one of the solutions to this problem. We create a distributed network of data to keep between us and others so if any of our friend stores something we all get hold of it (yes blockchain) but the cool part is you won't be depenedent on other nodes for your own data consistency (again blockchain).
+![](Book My Marks.png)
 
 ### App intend to go through following procedures
 
