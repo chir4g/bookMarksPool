@@ -2,8 +2,6 @@
 
 ## This App is being designed to store bookmarks and democratize the use of resources on internet. This is intended to create a clutter free environment where you are not charged for anything. You are happy to create, share and debate over what should be shared with you. 
 
-![](bookmarks_draft.png)
-
 ### App intend to go through following procedures
 
 - [X] Creation of App Layout
